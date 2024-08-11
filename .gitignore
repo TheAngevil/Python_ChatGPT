@@ -162,6 +162,7 @@ cython_debug/
 0523_金融研訓院day1-m(學員下載版).pdf
 0530_金融研訓院day2-m(學員下載版).pdf
 0606_金融研訓院day3-m(學員下載版).pdf
-.token.txt
-secrets.json
+secrets/.token.txt
+secrets/secrets.json
+secrets/python-chatgtp-d3c7f6081456.json
 .gitignore
